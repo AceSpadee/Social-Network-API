@@ -5,7 +5,7 @@ A Social-Network API built using Express.js & MongoDB
 This is an social networking application based on Node and Express.js API and configured with mongoose to interact with a MongoDB database.
 
 ## Walkthrough Video Link
-[Walkthrough]()
+[Walkthrough](https://drive.google.com/file/d/1aWsM1L3PlOwcsRyH9MTHhFpg6ji4XGEF/view?usp=sharing)
 
 ## User Story
 AS A social media startup
@@ -24,12 +24,9 @@ SO THAT my website can handle large amounts of unstructured data
  npm install mongoose
 
  ## Preview
- <img src="" width="720" heigth="480">
+ <img src="./public/image 1.png" width="720" heigth="480">
 
- <img src="" width="720" heigth="480">
-
- <img src="" width="720" heigth="480">
-
+ <img src="./public/image 2.png" width="720" heigth="480">
 
  ## License
 
